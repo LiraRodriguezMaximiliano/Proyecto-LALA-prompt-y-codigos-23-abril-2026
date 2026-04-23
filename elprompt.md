@@ -1,0 +1,19 @@
+EL prompt
+proyecto crud empleado en flutter con console firebase, proporciona un plan de trabajo de acuerdo a lo siguiente: 
+1. creacion de carpeta xflutterlira0627 y sub carpeta crudlala, 
+
+2. trabajar con antigravity, 
+
+3 crear base de datos (empleados) con firestore desde consola de firebase,
+
+4 que librerias se integran para implementarlo
+
+5 por ejemplo Cómo se agrega firebase_core  como se modifica el archivo pubspec.yaml,
+
+6 como crear proyecto, implementar el crud (crear, leer, actualizar y borrar) para trabajar con empleados, con tres campos (Nombre, edad y salario) mostrar los archivos correspondientes, en dart con su codigo, que sea totalmente funcional, actua como un creador de software.
+
+7 puedes profundizar tu respuesta anterior para realizar una practica guiada trabajando con antigravity para estudiantes.
+
+8 muestrame la metodologia paso a paso, para crear agentes, roles, skills y flujo de trabajo para el proyecto crud empleado en flutter con console firebase, mostrar estructura de carpetas y archivos, que sea totalmente funcional, utiliza colores atractivos para los widgets, proporciona los codigos correspondientes en dart
+
+el resultado de gemini
